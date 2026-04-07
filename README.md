@@ -176,10 +176,10 @@ MIT License - Feel free to use and adapt
 
 ## 📬 Contacto
 
-Para questões ou sugestões: [teu@email.com]
+Para questões ou sugestões: [luislavoura92@gmail.com]
 
 ---
 
-**Última atualização**: Março 2026
+**Última atualização**: Abril 2026
 **Versão**: 1.0
-**Mantido por**: [Teu Nome]
+**Mantido por**: [luislavoura]
