@@ -1,259 +1,306 @@
-# Brand Naming — Do "Scoreat" ao Nome Certo
+# Brand Naming — Pesquisa Extensa
 
-**Date**: 2026-04-07
-**Status**: Proposta — requer validação com utilizadores reais
+**Date**: 2026-04-08
+**Status**: v2 — pesquisa alargada (PT + EN + Latim + Grego)
 **Author**: Head of Product
-**Related**: [Product Vision](./00-product-vision.md) · [Personas](./02-personas.md)
+**Related**: [Product Vision](./00-product-vision.md)
 
 ---
 
 ## Porquê o "Scoreat" Não Funciona
 
-Antes de encontrar o nome certo, é preciso ser honesto sobre o que está errado no atual.
-
-| Problema | Evidência |
-|---------|-----------|
-| **Pronúncia ambígua** | "Score-eat"? "Scor-eat"? "Score-at"? Em PT soa a "Escoriete" |
-| **Portmanteau forçado** | Requer explicação — nunca é bom sinal num brand de consumo |
-| **Tom técnico/B2B** | Soa a ferramenta de analytics, não a app de comida |
-| **Não evoca apetite** | Nenhuma palavra aqui faz a boca água |
-| **Difícil de dizer em conversa** | "Vou ver no Scoreat" soa estranho em PT |
-| **Expansão global comprometida** | Em mercados não-anglófonos o nome não ressoa |
-
-**Conclusão**: o nome atual é um placeholder de fundador, não um brand. Quanto mais cedo se mudar, mais barato é.
+| Problema | Detalhe |
+|---------|---------|
+| Pronúncia ambígua | "Score-eat"? "Scor-eat"? Em PT soa a "Escoriete" |
+| Portmanteau forçado | Requer explicação — mau sinal num brand de consumo |
+| Tom técnico | Soa a ferramenta de analytics, não a app de comida |
+| Não evoca apetite | Nenhuma palavra aqui faz a boca água |
+| Expansão bloqueada | Em PT, ES, FR, IT o nome não ressoa naturalmente |
 
 ---
 
-## Critérios para o Nome Certo
+## Critérios de Avaliação
 
-Um nome forte para o Scoreat tem de cumprir todos estes:
+Cada candidato foi avaliado em 6 dimensões (1–5):
 
-| Critério | Porquê |
-|---------|--------|
-| **1-2 sílabas** | Memorável, fácil de dizer |
-| **Sem explicação necessária** | Evoca o produto sem pitch |
-| **Funciona em PT e EN** | Beachhead PT, escala global |
-| **Não técnico** | É um produto de consumo, não SaaS |
-| **Evoca o prato, a descoberta, ou o prazer** | Dish-centric até no nome |
-| **Pode ser usado como verbo** | "Já fizeste [nome] deste restaurante?" |
-| **Domínio .com ou .app disponível** | Viável comercialmente |
-| **Sem marca registada óbvia** | Legal clean (requer due diligence) |
+| Critério | Descrição |
+|---------|----------|
+| **Sonoridade** | Soa bem em voz alta? Fácil de dizer em PT e EN? |
+| **Memorabilidade** | Fica na cabeça depois de ouvir uma vez? |
+| **Evocação** | Evoca comida, descoberta, prazer, ou qualidade? |
+| **Internacional** | Funciona ou é compreendido em PT, EN, ES, IT? |
+| **Disponibilidade** | Parece único — improvável estar ocupado como brand de comida? |
+| **Verbalizável** | Pode ser usado como verbo em contexto natural? |
+
+**Score total máximo: 30**
 
 ---
 
-## Metodologia — Os 6 Territórios
-
-Explorei 6 territórios semânticos antes de gerar candidatos. Cada território representa um ângulo diferente de comunicar o que o produto faz.
+## Metodologia — Os 8 Territórios Semânticos
 
 ```
-TERRITÓRIO 1 — O PRATO
-O nome evoca o prato como entidade central.
-Palavras-fonte: dish, bite, plate, fork, morsel, peck, nosh
+TERRITÓRIO 1 — LATIM: SABOR E GOSTO
+Raiz: gustus/gustare, sapor/sapere, palatum, deliciae
 
-TERRITÓRIO 2 — A DESCOBERTA
-O nome evoca encontrar algo novo, uma aventura culinária.
-Palavras-fonte: find, foray, seek, trail, scout, quest, explore
+TERRITÓRIO 2 — LATIM: EXCELÊNCIA E QUALIDADE
+Raiz: primum, optimus, egregio, culmen, apex, nitere
 
-TERRITÓRIO 3 — A AVALIAÇÃO
-O nome evoca classificar, marcar, recordar.
-Palavras-fonte: mark, notch, rate, rank, stamp, flag, note
+TERRITÓRIO 3 — LATIM: ESCOLHA E SELEÇÃO
+Raiz: legere/electus, carpere, seligere, probare, delectus
 
-TERRITÓRIO 4 — O PRAZER
-O nome evoca o prazer sensorial de comer algo excepcional.
-Palavras-fonte: savor, relish, delight, bliss, zest, gusto
+TERRITÓRIO 4 — LATIM: FESTA E REFEIÇÃO
+Raiz: epula, convivium, prandium, daps, vesci
 
-TERRITÓRIO 5 — A MEMÓRIA
-O nome evoca guardar, colecionar, construir histórico.
-Palavras-fonte: keep, log, trace, trail, crumb, record
+TERRITÓRIO 5 — LATIM: CAMINHO E DESCOBERTA
+Raiz: iter, via, vestigium, cursus, explorare
 
-TERRITÓRIO 6 — RAÍZES PT/LATINAS
-O nome tem ressonância cultural no mercado de validação.
-Palavras-fonte: prova, sabor, pitada, garfo, travessa, morso
+TERRITÓRIO 6 — PORTUGUÊS: CULTURA ALIMENTAR
+Léxico nativo PT com ressonância cultural
+
+TERRITÓRIO 7 — INGLÊS: COMIDA E QUALIDADE
+Léxico EN com potencial cross-market
+
+TERRITÓRIO 8 — GREGO: PRAZER E EXCELÊNCIA
+Raiz: hedone, arete, axios, kalos, dais
 ```
 
 ---
 
-## Todos os Candidatos Gerados
+## Todos os Candidatos — Avaliação Completa
 
-### Território 1 — O Prato
+### Território 1 — Latim: Sabor e Gosto
 
-| Nome | Origem | PT funciona? | EN funciona? | Nota |
-|------|--------|-------------|-------------|------|
-| **Morso** | IT "morso" = bite | Sim (soa familiar) | Sim (elegante) | ⭐ Top 5 |
-| Dishmark | dish + mark | Sim | Sim | Demasiado literal |
-| Bitemark | bite + mark | Sim | Sim | Conotação negativa (marca de dente) |
-| Forkd | fork + dropped vowel | Sim | Demasiado 2010 | Era Flickr — datado |
-| Nosh | gíria EN para comer | Não ressoa | Sim (UK) | Demasiado britânico |
-| Peck | picada pequena | Sim | Sim | Demasiado genérico |
+| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
+| **Sapor** | *sapor* | sabor + sabedoria (mesma raiz) | 5 | 4 | 5 | 5 | 4 | 4 | **27** |
+| **Gustatio** | *gustatio* | o ato de provar (primeiro prato em Roma) | 3 | 3 | 5 | 4 | 4 | 2 | **21** |
+| **Palato** | *palatum* | palato — sede do gosto | 4 | 4 | 5 | 5 | 3 | 3 | **24** |
+| **Sapide** | *sapidus* | saboroso, com gosto, com sabedoria | 4 | 3 | 4 | 4 | 5 | 3 | **23** |
+| **Sapio** | *sapere* | eu provo / eu sei | 4 | 4 | 4 | 4 | 4 | 4 | **24** |
+| **Dego** | *degustare* | eu provo (forma curta) | 5 | 5 | 3 | 4 | 4 | 5 | **26** |
+| **Dulcis** | *dulcis* | doce, agradável | 3 | 3 | 3 | 3 | 3 | 2 | **17** |
+| **Suavis** | *suavis* | agradável, suave | 3 | 3 | 3 | 4 | 3 | 2 | **18** |
 
-### Território 2 — A Descoberta
-
-| Nome | Origem | PT funciona? | EN funciona? | Nota |
-|------|--------|-------------|-------------|------|
-| **Foray** | EN "foray" = incursão | Compreendido | Sim | ⭐ Top 5 |
-| Scoute | scout + goûter (FR=provar) | Sim | Sim | Interessante mas forçado |
-| Dishquest | dish + quest | Não | Sim | Muito gaming |
-| Trailbite | trail + bite | Não | Sim | Demasiado longo |
-
-### Território 3 — A Avaliação
-
-| Nome | Origem | PT funciona? | EN funciona? | Nota |
-|------|--------|-------------|-------------|------|
-| **Notch** | EN "a notch above" | Compreendido | Sim | ⭐ Top 5 |
-| Stamp | carimbo/validação | Sim | Sim | Sem apetite, demasiado formal |
-| Flagged | marcar | Não | Sim | Conotação negativa (algo errado) |
-| Grail | holy grail | Sim | Sim | Demasiado pretensioso |
-
-### Território 4 — O Prazer
-
-| Nome | Origem | PT funciona? | EN funciona? | Nota |
-|------|--------|-------------|-------------|------|
-| Savor | EN "to savor" | Sim | Sim | Já usado (revista Saveur, vários apps) |
-| Relish | EN "to relish" | Não ressoa | Sim | Em PT parece condimento |
-| Gusto | IT/EN "gusto" | Sim (espírito) | Sim | Já muito usado em branding |
-| Zest | EN "zest" | Sim | Sim | Demasiado genérico, sumos de fruta |
-
-### Território 5 — A Memória
-
-| Nome | Origem | PT funciona? | EN funciona? | Nota |
-|------|--------|-------------|-------------|------|
-| **Crumb** | EN "migalha" / trilho | Compreendido | Sim | ⭐ Top 5 |
-| Tasted | EN "já provei" | Sim | Sim | Passado — funciona bem |
-| Trace | EN "rastro" | Sim | Sim | Demasiado tech/investigação |
-| Trail | EN "trilho" | Sim | Sim | Demasiado hiking |
-
-### Território 6 — Raízes PT/Latinas
-
-| Nome | Origem | PT funciona? | EN funciona? | Nota |
-|------|--------|-------------|-------------|------|
-| **Prova** | PT "provar" = taste/prove | Perfeito | Compreendido | ⭐ Top 5 |
-| Pitada | PT "pitada" = pinch of spice | Sim | Não | Demasiado local |
-| Sabor | PT/ES "sabor" = flavor | Sim | Não | Demasiado genérico |
-| Garfo | PT "garfo" = fork | Sim | Não | Demasiado literal, não escala |
+**Destaques: Sapor (27), Dego (26), Palato (24)**
 
 ---
 
-## Shortlist — Top 5
+### Território 2 — Latim: Excelência e Qualidade
 
-### 🥇 Morso
+| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
+| **Primor** | *primus* + PT | perfeição, excelência, feito com cuidado | 5 | 5 | 5 | 5 | 4 | 4 | **28** |
+| **Nitor** | *nitor* | brilho, elegância, esforço | 4 | 4 | 3 | 4 | 5 | 3 | **23** |
+| **Apice** | *apex* | o ponto mais alto | 4 | 4 | 4 | 4 | 3 | 3 | **22** |
+| **Culmen** | *culmen* | o cume, o pico | 3 | 3 | 3 | 4 | 4 | 2 | **19** |
+| **Eximio** | *eximius* | extraordinário, distinto | 4 | 3 | 4 | 4 | 4 | 2 | **21** |
+| **Insigne** | *insignis* | notável, distinto, marcante | 4 | 3 | 3 | 4 | 4 | 2 | **20** |
+| **Decus** | *decus* | graça, honra, glória | 3 | 3 | 2 | 3 | 5 | 2 | **18** |
+| **Vero** | *verus* | verdadeiro, genuíno, real | 5 | 5 | 4 | 5 | 3 | 4 | **26** |
+| **Verum** | *verum* | a verdade | 4 | 4 | 3 | 4 | 4 | 2 | **21** |
 
-**Origem**: "morso" em italiano = mordida, bocado. Familiar em português (próximo de "morso" = mordida) e elegante em inglês.
-
-**Porquê funciona**:
-- Evoca o ato físico de provar — a mordida é o início de tudo
-- Internacional: IT, ES, PT entendem intuitivamente; EN soa premium e diferente
-- 2 sílabas, sonoridade aberta e apetitosa
-- Não existe nenhum brand de comida relevante com este nome
-- Pode ser verbo: "Já morsaste este lugar?"
-- Tom: premium sem ser elitista
-
-**Riscos**:
-- Pode parecer italiano demais para alguns mercados
-- Verificar disponibilidade de trademark em PT, EU, BR
+**Destaques: Primor (28), Vero (26), Nitor (23)**
 
 ---
 
-### 🥈 Prova
+### Território 3 — Latim: Escolha e Seleção
 
-**Origem**: "provar" em português = to taste + to prove/validate. Duplo significado perfeito para o produto.
+| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
+| **Electa** | *electus* | o escolhido, o selecionado | 4 | 4 | 4 | 5 | 3 | 3 | **23** |
+| **Lectio** | *legere* | leitura, seleção cuidadosa | 4 | 4 | 3 | 4 | 4 | 3 | **22** |
+| **Dilecto** | *diligere* | amado, escolhido com afeto | 4 | 4 | 4 | 5 | 4 | 3 | **24** |
+| **Probo** | *probare* | eu aprovo / eu testo / eu verifico | 4 | 4 | 4 | 5 | 4 | 5 | **26** |
+| **Delectu** | *delectus* | selecionado, delícia | 4 | 3 | 4 | 4 | 4 | 2 | **21** |
+| **Carp** | *carpere* | colher, selecionar com cuidado | 4 | 4 | 2 | 4 | 3 | 4 | **21** |
 
-**Porquê funciona**:
-- Duplo significado nativo em PT: "prova este prato" (tasting) + "a prova que este prato é bom" (validation)
-- Curto, elegante, fácil de pronunciar em qualquer língua
-- Alinha perfeitamente com a missão: validar qual o melhor prato
-- Pode ser verbo: "Já provaste este restaurante?" — frase que já existe em PT
-- Domínio .app pode estar disponível
-
-**Riscos**:
-- Em EN "prova" não é uma palavra (mas soa latina — premium no contexto de comida)
-- Verificar se há apps concorrentes com nome similar
-- Pode ser confundido com "prova de vinho" — mas isso não é necessariamente mau
+**Destaques: Probo (26), Dilecto (24), Electa (23)**
 
 ---
 
-### 🥉 Crumb
+### Território 4 — Latim: Festa e Refeição
 
-**Origem**: EN "crumb" = migalha. Metáfora dupla: o que fica depois de uma boa refeição + seguir as migalhas para encontrar algo bom (Hansel & Gretel / trilho de descoberta).
+| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
+| **Epulo** | *epulae* | banquete, festa, abundância à mesa | 4 | 5 | 5 | 4 | 5 | 3 | **26** |
+| **Conviva** | *convivium* | companheiro de mesa, comensal | 5 | 5 | 5 | 5 | 4 | 3 | **27** |
+| **Daps** | *daps* | refeição sagrada, banquete generoso | 3 | 3 | 3 | 3 | 5 | 3 | **20** |
+| **Victus** | *victus* | alimento, modo de viver | 3 | 3 | 2 | 3 | 4 | 2 | **17** |
+| **Cena** | *cena* | jantar (latim/italiano) | 4 | 4 | 4 | 5 | 2 | 3 | **22** |
+| **Mensa** | *mensa* | mesa | 3 | 3 | 3 | 4 | 2 | 2 | **17** |
 
-**Porquê funciona**:
-- Metáfora poderosa: deixas migalhas (reviews) que outros seguem
-- 1 sílaba — raramente tão curto
-- Funciona em EN e é compreendido em PT
-- Connotação quente, caseira, sem ser naïve
-- "Follow the crumbs" — narrativa de produto embutida no nome
-
-**Riscos**:
-- Em PT pode soar estranho dito em voz alta ("vai ao Crumb")
-- Pode conotar "pouco" (migalha = pequeno) — risco de percepção
+**Destaques: Conviva (27), Epulo (26), Cena (22)**
 
 ---
 
-### 4. Notch
+### Território 5 — Latim: Caminho e Descoberta
 
-**Origem**: EN "a notch above" = um nível acima. Fazer uma notch = marcar, registar.
+| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
+| **Iter** | *iter* | jornada, caminho, viagem | 4 | 4 | 4 | 4 | 5 | 3 | **24** |
+| **Vestigio** | *vestigium* | rasto, pegada | 3 | 3 | 4 | 4 | 4 | 2 | **20** |
+| **Via** | *via* | caminho, rota | 4 | 4 | 3 | 5 | 2 | 3 | **21** |
+| **Cursus** | *cursus* | percurso, trajeto | 3 | 3 | 3 | 4 | 3 | 2 | **18** |
 
-**Porquê funciona**:
-- Duplo significado: avaliar ("este prato é top notch") + marcar/registar
-- Muito curto (1 sílaba)
-- Som forte e memorável
-- Funciona como verbo: "Notch esse prato"
-
-**Riscos**:
-- Em PT "notch" não tem ressonância imediata — requer adopção
-- Pode soar técnico para audiência não-anglófona
-- Existe produto tech chamado Notch (diferente setor, mas verificar)
+**Destaques: Iter (24), Via (21)**
 
 ---
 
-### 5. Foray
+### Território 6 — Português: Cultura Alimentar
 
-**Origem**: EN "foray" = incursão, aventura, exploração.
+| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
+| **Primor** | PT nativo | perfeição, excelência artesanal | 5 | 5 | 5 | 5 | 4 | 4 | **28** |
+| **Paladar** | PT/ES | palato, o sentido do gosto | 5 | 5 | 5 | 5 | 3 | 3 | **26** |
+| **Requinte** | PT nativo | refinamento, elegância com esforço | 4 | 4 | 4 | 3 | 4 | 2 | **21** |
+| **Iguaria** | PT nativo | iguaria, delícia especial | 4 | 4 | 5 | 3 | 3 | 2 | **21** |
+| **Apurado** | PT nativo | refinado, preciso, apurado gosto | 3 | 3 | 4 | 3 | 4 | 3 | **20** |
+| **Apuro** | PT nativo | refinamento, esmero | 4 | 4 | 4 | 4 | 4 | 3 | **23** |
+| **Seleto** | PT/Latin | seleto, escolhido com cuidado | 4 | 4 | 4 | 4 | 3 | 3 | **22** |
+| **Pitéu** | PT gíria | acepipe, iguaria, coisa boa | 4 | 4 | 5 | 2 | 4 | 3 | **22** |
+| **Nítido** | PT nativo | claro, vivo, definido | 4 | 4 | 3 | 4 | 4 | 3 | **22** |
+| **Fama** | PT/Latim | reputação, fama | 4 | 5 | 4 | 5 | 2 | 3 | **23** |
+| **Renome** | PT nativo | renome, prestígio | 3 | 4 | 4 | 4 | 3 | 2 | **20** |
 
-**Porquê funciona**:
-- Evoca aventura culinária — cada refeição é uma foray
-- 2 sílabas, som fluido
-- Culto mas acessível
-- "Fazer uma foray gastronómica" — frase que funciona
-
-**Riscos**:
-- Menos intuitivo para utilizadores PT (anglicismo não familiar)
-- Sem ligação direta ao prato ou à comida — mais abstrato
-
----
-
-## Recomendação
-
-### Nome: **Morso**
-
-É o único nome que cumpre todos os critérios simultaneamente:
-- Internacional desde o primeiro dia
-- Evoca o ato de provar (a mordida — o contacto com o prato)
-- Premium sem ser inacessível
-- Funciona como verbo em contexto informal
-- Soa diferente de tudo o que existe no espaço de food apps
-- Nenhuma das marcas grandes tem este nome
-
-**Se Morso falhar no trademark ou domínio**: segunda escolha é **Prova** — tem a vantagem de ser nativo em PT e de ter duplo significado embutido na missão do produto.
+**Destaques: Primor (28), Paladar (26), Fama/Apuro (23)**
 
 ---
 
-## Próximos Passos Antes de Decidir
+### Território 7 — Inglês: Comida e Qualidade
 
-Estas verificações têm de ser feitas antes de comprometer com qualquer nome:
+| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
+| **Arbiter** | EN/Latim | árbitro do gosto, juiz | 4 | 4 | 4 | 4 | 3 | 3 | **22** |
+| **Discern** | EN | discernir, perceber qualidade | 3 | 3 | 3 | 3 | 3 | 3 | **18** |
+| **Calibre** | EN/FR | calibre, nível de qualidade | 3 | 3 | 4 | 4 | 2 | 2 | **18** |
+| **Marrow** | EN | tutano, essência profunda | 3 | 3 | 3 | 3 | 3 | 2 | **17** |
+| **Pith** | EN | essência, núcleo, substância | 3 | 3 | 3 | 3 | 4 | 2 | **18** |
+| **Tasted** | EN | "já provei" — passado | 4 | 4 | 4 | 4 | 3 | 3 | **22** |
+| **Foray** | EN | incursão, aventura | 4 | 4 | 3 | 4 | 4 | 3 | **22** |
 
-- [ ] **Trademark search** — verificar PT, EU, BR, US (EUIPO, INPI, USPTO)
-- [ ] **Domain check** — morso.com, morso.app, morso.io (e prova.app como backup)
-- [ ] **App Store / Play Store** — confirmar que não existe app com nome idêntico ou confusamente similar
-- [ ] **Social handles** — Instagram, TikTok, X (@morso disponível?)
-- [ ] **Teste com 10 utilizadores** — pronunciar o nome em voz alta, perguntar o que evoca, que produto imaginam
-- [ ] **Pronunciação PT nativa** — pedir a 5 pessoas PT para dizer o nome sem contexto e observar como soa
-
-**Timeline**: este processo deve ser concluído antes do sprint de 30 dias terminar — se há PMF, o rename tem de estar pronto para a fase de crescimento.
+**Destaques: Arbiter / Tasted / Foray (22)**
 
 ---
 
-## Nota Final
+### Território 8 — Grego: Prazer e Excelência
 
-O nome não faz o produto. Um produto com PMF forte sobrevive a um nome médio (vide "Zoom", "Slack", "Discord"). Mas um nome forte acelera o word-of-mouth e a memorabilidade — que nesta fase são os dois canais de crescimento mais importantes.
+| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
+| **Axios** | *axios* | digno, que merece | 4 | 4 | 3 | 4 | 4 | 3 | **22** |
+| **Arete** | *areté* | excelência, virtude | 4 | 4 | 3 | 4 | 3 | 3 | **21** |
+| **Dais** | *dais* | banquete sagrado | 3 | 3 | 3 | 3 | 4 | 2 | **18** |
+| **Kalos** | *kalos* | belo, excelente | 4 | 4 | 3 | 4 | 3 | 2 | **20** |
+| **Charis** | *charis* | graça, beleza, favor | 4 | 4 | 3 | 4 | 3 | 2 | **20** |
 
-**Não adiar esta decisão para além do mês 3.** Mudar de nome depois de lançar em modo de crescimento é caro — utilizadores, SEO, PR, e marca têm de ser reconstruídos.
+**Destaques: Axios / Arete (22/21)**
+
+---
+
+## Top 10 Final — Ranking Consolidado
+
+| Rank | Nome | Score | Território | Conceito |
+|------|------|-------|-----------|---------|
+| 🥇 | **Primor** | 28 | PT + Latim | Excelência artesanal — "está um primor" |
+| 🥇 | **Sapor** | 27 | Latim | Sabor + sabedoria (mesma raiz: *sapere*) |
+| 🥉 | **Conviva** | 27 | Latim | O companheiro de mesa |
+| 4 | **Paladar** | 26 | PT / ES | A sede do gosto |
+| 4 | **Dego** | 26 | Latim | Eu provo (de *degustare*) |
+| 4 | **Vero** | 26 | Latim / IT | Verdadeiro, genuíno |
+| 4 | **Probo** | 26 | Latim | Eu aprovo / testo / verifico |
+| 4 | **Epulo** | 26 | Latim | O banquete, a celebração |
+| 9 | **Dilecto** | 24 | Latim | Amado, escolhido com afeto |
+| 9 | **Iter** | 24 | Latim | A jornada (gastronómica) |
+
+---
+
+## Os 3 Finalistas — Análise Detalhada
+
+### 🥇 Primor
+
+**Origem**: Português nativo, raiz latina *primus* (primeiro, melhor).
+
+**O que significa em cada mercado**:
+- **Portugal**: "Está um primor" = está perfeito, feito com arte. Uso quotidiano, carregado de afeto e qualidade artesanal.
+- **Brasil**: "Primor" usado igualmente — "feito com primor" = feito com cuidado e excelência.
+- **Espanha**: *Primo* (primeiro/melhor) + sufixo — compreendido intuitivamente.
+- **Itália**: *Primordiale*, *primo* — familiar, premium.
+- **Inglaterra**: Cognato de "prime" — "the prime of cuisine."
+
+**Narrativa de produto**: *O Primor* é o registo dos pratos que foram mesmo excecionais. Cada review é marcar o que foi feito com primor.
+
+**Como soa como verbo**: "Já primoreaste este restaurante?" ← funciona em contexto informal.
+
+**Domínio**: primor.app — muito provavelmente disponível. primor.com já existe como site de moda/decoração PT, mas primor.app e @primor nas redes devem estar livres.
+
+**Risco único**: associação com a marca de retalho "Primor" em Portugal (lojas de beleza). Requer verificação de trademark. Em contexto de app de comida, a confusão é baixa.
+
+---
+
+### 🥇 Sapor
+
+**Origem**: Latim *sapor* — sabor, gosto. Da raiz *sapere* = provar + ser sábio. A mesma raiz dá *sabor* em PT, *saveur* em FR, *sapore* em IT, *sabor* em ES.
+
+**O que significa em cada mercado**:
+- **Portugal**: *sabor* é imediatamente reconhecido como cognato.
+- **Espanha/América Latina**: *sabor* = flavor — a ligação é instantânea.
+- **Itália**: *sapore* = flavor — mesma família.
+- **França**: *saveur* — familiar.
+- **Inglaterra**: "sapor" existe em EN como palavra arcaica/científica para flavor. Pouco usado = disponível como brand.
+
+**A profundidade do conceito**: *sapere* em latim significa simultaneamente "ter gosto" e "ser sábio". O Dish Graph é literalmente conhecimento de sabor — sapor. O nome e a missão são a mesma coisa.
+
+**Como soa**: curto, aberto, fácil de dizer em qualquer língua. "Procura no Sapor." "Já tens no Sapor?"
+
+**Domínio**: sapor.app — alta probabilidade de disponibilidade.
+
+---
+
+### 🥉 Conviva
+
+**Origem**: Latim *conviva* — o companheiro de mesa, o comensal. De *con* (com) + *vivere* (viver). Aquele com quem partilhas a refeição.
+
+**O que significa em cada mercado**:
+- **Portugal**: *conviva* é palavra PT ativa — "os convivas do jantar" = os convidados/companheiros.
+- **Itália**: *conviva* = comensal, mesma palavra.
+- **Espanha**: *comensal* é mais usado, mas *conviva* é compreendido.
+- **Inglaterra**: "convive" não existe, mas soa elegante e Latin-root premium.
+
+**A narrativa**: o Conviva é o teu companheiro de mesa digital — conhece o que já comeste, sabe o que gostas, guia-te para o próximo prato excepcional.
+
+**Risco**: 3 sílabas — mais longo. "Vai ao Conviva" funciona, mas menos natural que "Vai ao Primor."
+
+---
+
+## Recomendação Final
+
+### Nome: **Sapor**
+
+É o nome com maior profundidade conceptual e melhor posicionamento global.
+
+**A razão decisiva**: a raiz *sapere* significa simultaneamente "ter sabor" e "ser sábio/saber". O Scoreat não é apenas uma app de reviews — é o **conhecimento estruturado de sabor**. O nome e a missão são a mesma palavra em latim. Nenhum outro candidato tem esta coerência.
+
+**Se Sapor falhar no trademark/domínio**: **Primor** é a segunda escolha — mais cultural, mais PT, igualmente forte.
+
+**Se ambos falharem**: **Conviva** ou **Dego**.
+
+---
+
+## Próximos Passos Obrigatórios
+
+Antes de qualquer decisão, por esta ordem:
+
+- [ ] **Verificar domínios**: sapor.app · sapor.com · primor.app · conviva.app
+- [ ] **Trademark search**: EUIPO (Europa) · INPI (Portugal) · USPTO (EUA) · INPI-BR (Brasil)
+- [ ] **App Store / Play Store**: procurar nome exato + variações próximas
+- [ ] **Handles sociais**: @sapor · @primor no Instagram, TikTok, X
+- [ ] **Teste de pronúncia**: pedir a 10 pessoas para dizerem o nome em voz alta sem contexto
+- [ ] **Teste de evocação**: "O que imaginas quando ouves 'Sapor'?" — 10 respostas de PT e EN nativos
+- [ ] **Decisão antes do mês 3** — mudar de nome depois de crescimento público é custoso
+
+---
+
+## Nota sobre Timing
+
+O rename deve acontecer **antes** do sprint de 30 dias terminar com resultado "Go". Se há PMF, a fase de crescimento começa — e crescer com o nome errado multiplica o custo de mudar depois.
+
+**Não é urgente para o sprint, mas é urgente para preparar o sprint.**
