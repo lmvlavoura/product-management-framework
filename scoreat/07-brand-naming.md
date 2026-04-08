@@ -1,306 +1,245 @@
-# Brand Naming — Pesquisa Extensa
+# Brand Naming — v3: Pesquisa Alargada
 
 **Date**: 2026-04-08
-**Status**: v2 — pesquisa alargada (PT + EN + Latim + Grego)
+**Status**: v3 — nova abordagem fonética + territórios expandidos
 **Author**: Head of Product
 **Related**: [Product Vision](./00-product-vision.md)
 
 ---
 
-## Porquê o "Scoreat" Não Funciona
+## Porquê os Anteriores Falharam
 
-| Problema | Detalhe |
-|---------|---------|
-| Pronúncia ambígua | "Score-eat"? "Scor-eat"? Em PT soa a "Escoriete" |
-| Portmanteau forçado | Requer explicação — mau sinal num brand de consumo |
-| Tom técnico | Soa a ferramenta de analytics, não a app de comida |
-| Não evoca apetite | Nenhuma palavra aqui faz a boca água |
-| Expansão bloqueada | Em PT, ES, FR, IT o nome não ressoa naturalmente |
+O feedback "Sapor liga a sabonete" revela um problema fonético específico:
+o prefixo **sap-** em português está condicionado — *sabão, sabonete, saponáceo* criam uma associação de higiene/limpeza impossível de apagar.
 
----
-
-## Critérios de Avaliação
-
-Cada candidato foi avaliado em 6 dimensões (1–5):
-
-| Critério | Descrição |
-|---------|----------|
-| **Sonoridade** | Soa bem em voz alta? Fácil de dizer em PT e EN? |
-| **Memorabilidade** | Fica na cabeça depois de ouvir uma vez? |
-| **Evocação** | Evoca comida, descoberta, prazer, ou qualidade? |
-| **Internacional** | Funciona ou é compreendido em PT, EN, ES, IT? |
-| **Disponibilidade** | Parece único — improvável estar ocupado como brand de comida? |
-| **Verbalizável** | Pode ser usado como verbo em contexto natural? |
-
-**Score total máximo: 30**
-
----
-
-## Metodologia — Os 8 Territórios Semânticos
+Isto define uma regra para esta ronda:
 
 ```
-TERRITÓRIO 1 — LATIM: SABOR E GOSTO
-Raiz: gustus/gustare, sapor/sapere, palatum, deliciae
-
-TERRITÓRIO 2 — LATIM: EXCELÊNCIA E QUALIDADE
-Raiz: primum, optimus, egregio, culmen, apex, nitere
-
-TERRITÓRIO 3 — LATIM: ESCOLHA E SELEÇÃO
-Raiz: legere/electus, carpere, seligere, probare, delectus
-
-TERRITÓRIO 4 — LATIM: FESTA E REFEIÇÃO
-Raiz: epula, convivium, prandium, daps, vesci
-
-TERRITÓRIO 5 — LATIM: CAMINHO E DESCOBERTA
-Raiz: iter, via, vestigium, cursus, explorare
-
-TERRITÓRIO 6 — PORTUGUÊS: CULTURA ALIMENTAR
-Léxico nativo PT com ressonância cultural
-
-TERRITÓRIO 7 — INGLÊS: COMIDA E QUALIDADE
-Léxico EN com potencial cross-market
-
-TERRITÓRIO 8 — GREGO: PRAZER E EXCELÊNCIA
-Raiz: hedone, arete, axios, kalos, dais
+EVITAR: prefixos sap-, sab-, sal- (soap associations em PT)
+EVITAR: sons clínicos ou técnicos
+PREFERIR: vogais abertas e quentes (a, o, u)
+PREFERIR: consoantes suaves (m, l, n, r, v, f)
+PREFERIR: que soe a algo vivo, quente, humano
 ```
 
 ---
 
-## Todos os Candidatos — Avaliação Completa
+## Critérios (mesmos de v2)
 
-### Território 1 — Latim: Sabor e Gosto
+| Critério | Peso |
+|---------|------|
+| Sonoridade — soa bem em PT e EN | /5 |
+| Memorabilidade — fica depois de ouvir uma vez | /5 |
+| Evocação — evoca comida, qualidade, ou descoberta | /5 |
+| Internacional — compreendido em PT, EN, ES, IT | /5 |
+| Disponibilidade — improvável estar ocupado | /5 |
+| Verbalizável — funciona em "Vai ao X" / "Já X-ei" | /5 |
 
-| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
-|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
-| **Sapor** | *sapor* | sabor + sabedoria (mesma raiz) | 5 | 4 | 5 | 5 | 4 | 4 | **27** |
-| **Gustatio** | *gustatio* | o ato de provar (primeiro prato em Roma) | 3 | 3 | 5 | 4 | 4 | 2 | **21** |
-| **Palato** | *palatum* | palato — sede do gosto | 4 | 4 | 5 | 5 | 3 | 3 | **24** |
-| **Sapide** | *sapidus* | saboroso, com gosto, com sabedoria | 4 | 3 | 4 | 4 | 5 | 3 | **23** |
-| **Sapio** | *sapere* | eu provo / eu sei | 4 | 4 | 4 | 4 | 4 | 4 | **24** |
-| **Dego** | *degustare* | eu provo (forma curta) | 5 | 5 | 3 | 4 | 4 | 5 | **26** |
-| **Dulcis** | *dulcis* | doce, agradável | 3 | 3 | 3 | 3 | 3 | 2 | **17** |
-| **Suavis** | *suavis* | agradável, suave | 3 | 3 | 3 | 4 | 3 | 2 | **18** |
-
-**Destaques: Sapor (27), Dego (26), Palato (24)**
+**Máximo: 30**
 
 ---
 
-### Território 2 — Latim: Excelência e Qualidade
+## Novos Territórios Explorados
 
-| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
-|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
-| **Primor** | *primus* + PT | perfeição, excelência, feito com cuidado | 5 | 5 | 5 | 5 | 4 | 4 | **28** |
-| **Nitor** | *nitor* | brilho, elegância, esforço | 4 | 4 | 3 | 4 | 5 | 3 | **23** |
-| **Apice** | *apex* | o ponto mais alto | 4 | 4 | 4 | 4 | 3 | 3 | **22** |
-| **Culmen** | *culmen* | o cume, o pico | 3 | 3 | 3 | 4 | 4 | 2 | **19** |
-| **Eximio** | *eximius* | extraordinário, distinto | 4 | 3 | 4 | 4 | 4 | 2 | **21** |
-| **Insigne** | *insignis* | notável, distinto, marcante | 4 | 3 | 3 | 4 | 4 | 2 | **20** |
-| **Decus** | *decus* | graça, honra, glória | 3 | 3 | 2 | 3 | 5 | 2 | **18** |
-| **Vero** | *verus* | verdadeiro, genuíno, real | 5 | 5 | 4 | 5 | 3 | 4 | **26** |
-| **Verum** | *verum* | a verdade | 4 | 4 | 3 | 4 | 4 | 2 | **21** |
+### Território A — Português: Expressões de Excelência à Mesa
 
-**Destaques: Primor (28), Vero (26), Nitor (23)**
+*"Está um mimo." "Que achado!" "Tem brio." "Ao lume." "Está divinal."*
 
----
+| Nome | Origem | Conceito | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|---------|-----|-----|-----|-----|------|------|-----------|
+| **Mimo** | PT nativo | um mimo = um regalo, algo feito com carinho | 5 | 5 | 5 | 4 | 3 | 5 | **27** |
+| **Achado** | PT nativo | "que achado!" = descoberta excepcional | 5 | 5 | 5 | 3 | 4 | 4 | **26** |
+| **Brio** | PT/IT/EN | ter brio = orgulho na qualidade, feito com esmero | 5 | 5 | 4 | 5 | 4 | 4 | **27** |
+| **Lume** | PT poético | ao lume = ao fogo, chama de cozinha, luz | 5 | 5 | 5 | 4 | 4 | 4 | **27** |
+| **Ardor** | PT/EN/ES | paixão, calor, intensidade | 4 | 4 | 4 | 5 | 4 | 3 | **24** |
+| **Esmero** | PT nativo | feito com esmero = feito com cuidado e precisão | 4 | 4 | 4 | 3 | 4 | 3 | **22** |
+| **Apuro** | PT nativo | refinamento, esmero, precisão | 4 | 4 | 4 | 4 | 4 | 3 | **23** |
+| **Primor** | PT nativo | "está um primor" = perfeição artesanal | 5 | 5 | 5 | 5 | 2 | 4 | **26** ⚠️ |
+| **Tenro** | PT nativo | tenro = macio, delicado (palavra de textura alimentar) | 4 | 4 | 5 | 3 | 4 | 3 | **23** |
 
-### Território 3 — Latim: Escolha e Seleção
-
-| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
-|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
-| **Electa** | *electus* | o escolhido, o selecionado | 4 | 4 | 4 | 5 | 3 | 3 | **23** |
-| **Lectio** | *legere* | leitura, seleção cuidadosa | 4 | 4 | 3 | 4 | 4 | 3 | **22** |
-| **Dilecto** | *diligere* | amado, escolhido com afeto | 4 | 4 | 4 | 5 | 4 | 3 | **24** |
-| **Probo** | *probare* | eu aprovo / eu testo / eu verifico | 4 | 4 | 4 | 5 | 4 | 5 | **26** |
-| **Delectu** | *delectus* | selecionado, delícia | 4 | 3 | 4 | 4 | 4 | 2 | **21** |
-| **Carp** | *carpere* | colher, selecionar com cuidado | 4 | 4 | 2 | 4 | 3 | 4 | **21** |
-
-**Destaques: Probo (26), Dilecto (24), Electa (23)**
+> ⚠️ Primor: score de disponibilidade baixo — existe cadeia de lojas "Primor" em Portugal (beleza/higiene). Requer due diligence.
 
 ---
 
-### Território 4 — Latim: Festa e Refeição
+### Território B — Português: Metáforas de Estrutura e Descoberta
 
-| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
-|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
+| Nome | Origem | Conceito | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|---------|-----|-----|-----|-----|------|------|-----------|
+| **Favo** | PT/Latim *favus* | favo de mel = estrutura celular, o grafo do prato | 5 | 5 | 5 | 4 | 5 | 4 | **28** |
+| **Raro** | PT/ES/IT/EN | raro = excepcional, fora do comum | 5 | 5 | 4 | 5 | 3 | 4 | **26** |
+| **Rastro** | PT nativo | seguir o rastro = descoberta, trilho | 3 | 3 | 3 | 3 | 4 | 3 | **19** |
+| **Fio** | PT nativo | fio condutor, fio de sabor — mas demasiado fino | 3 | 3 | 2 | 3 | 3 | 2 | **16** |
+| **Veio** | PT nativo | veio de ouro = filão, fonte de qualidade | 3 | 3 | 3 | 2 | 4 | 2 | **17** |
+
+---
+
+### Território C — Latim: Prazer, Luz e Celebração (sem sons de sabão)
+
+| Nome | Origem | Conceito | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|---------|-----|-----|-----|-----|------|------|-----------|
+| **Nitor** | *nitor* | brilho, elegância, esforço — o que distingue o excelente | 4 | 4 | 4 | 4 | 5 | 3 | **24** |
+| **Fulgor** | *fulgor* | brilho, resplandor, chama | 4 | 4 | 4 | 4 | 5 | 3 | **24** |
 | **Epulo** | *epulae* | banquete, festa, abundância à mesa | 4 | 5 | 5 | 4 | 5 | 3 | **26** |
-| **Conviva** | *convivium* | companheiro de mesa, comensal | 5 | 5 | 5 | 5 | 4 | 3 | **27** |
-| **Daps** | *daps* | refeição sagrada, banquete generoso | 3 | 3 | 3 | 3 | 5 | 3 | **20** |
-| **Victus** | *victus* | alimento, modo de viver | 3 | 3 | 2 | 3 | 4 | 2 | **17** |
-| **Cena** | *cena* | jantar (latim/italiano) | 4 | 4 | 4 | 5 | 2 | 3 | **22** |
-| **Mensa** | *mensa* | mesa | 3 | 3 | 3 | 4 | 2 | 2 | **17** |
-
-**Destaques: Conviva (27), Epulo (26), Cena (22)**
-
----
-
-### Território 5 — Latim: Caminho e Descoberta
-
-| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
-|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
-| **Iter** | *iter* | jornada, caminho, viagem | 4 | 4 | 4 | 4 | 5 | 3 | **24** |
-| **Vestigio** | *vestigium* | rasto, pegada | 3 | 3 | 4 | 4 | 4 | 2 | **20** |
-| **Via** | *via* | caminho, rota | 4 | 4 | 3 | 5 | 2 | 3 | **21** |
-| **Cursus** | *cursus* | percurso, trajeto | 3 | 3 | 3 | 4 | 3 | 2 | **18** |
-
-**Destaques: Iter (24), Via (21)**
+| **Conviva** | *conviva* | o companheiro de mesa | 5 | 5 | 5 | 5 | 4 | 3 | **27** |
+| **Vero** | *verus* | verdadeiro, genuíno, real | 5 | 5 | 4 | 5 | 3 | 4 | **26** |
+| **Gaudium** | *gaudium* | alegria, prazer (PT: gaúdio) | 3 | 3 | 4 | 3 | 5 | 2 | **20** |
+| **Animus** | *animus* | espírito, alma, energia vital | 4 | 4 | 4 | 4 | 3 | 3 | **22** |
+| **Delecta** | *delectare* | deleitar, encantar, atrair | 4 | 4 | 4 | 4 | 4 | 3 | **23** |
+| **Iter** | *iter* | jornada, caminho, percurso | 4 | 4 | 4 | 4 | 5 | 3 | **24** |
+| **Merenda** | *merenda* | refeição leve da tarde (PT/IT/ES: merenda) | 5 | 5 | 5 | 5 | 3 | 3 | **26** |
 
 ---
 
-### Território 6 — Português: Cultura Alimentar
+### Território D — Grego: Festa, Excelência, Sentidos
 
-| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
-|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
-| **Primor** | PT nativo | perfeição, excelência artesanal | 5 | 5 | 5 | 5 | 4 | 4 | **28** |
-| **Paladar** | PT/ES | palato, o sentido do gosto | 5 | 5 | 5 | 5 | 3 | 3 | **26** |
-| **Requinte** | PT nativo | refinamento, elegância com esforço | 4 | 4 | 4 | 3 | 4 | 2 | **21** |
-| **Iguaria** | PT nativo | iguaria, delícia especial | 4 | 4 | 5 | 3 | 3 | 2 | **21** |
-| **Apurado** | PT nativo | refinado, preciso, apurado gosto | 3 | 3 | 4 | 3 | 4 | 3 | **20** |
-| **Apuro** | PT nativo | refinamento, esmero | 4 | 4 | 4 | 4 | 4 | 3 | **23** |
-| **Seleto** | PT/Latin | seleto, escolhido com cuidado | 4 | 4 | 4 | 4 | 3 | 3 | **22** |
-| **Pitéu** | PT gíria | acepipe, iguaria, coisa boa | 4 | 4 | 5 | 2 | 4 | 3 | **22** |
-| **Nítido** | PT nativo | claro, vivo, definido | 4 | 4 | 3 | 4 | 4 | 3 | **22** |
-| **Fama** | PT/Latim | reputação, fama | 4 | 5 | 4 | 5 | 2 | 3 | **23** |
-| **Renome** | PT nativo | renome, prestígio | 3 | 4 | 4 | 4 | 3 | 2 | **20** |
-
-**Destaques: Primor (28), Paladar (26), Fama/Apuro (23)**
-
----
-
-### Território 7 — Inglês: Comida e Qualidade
-
-| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
-|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
-| **Arbiter** | EN/Latim | árbitro do gosto, juiz | 4 | 4 | 4 | 4 | 3 | 3 | **22** |
-| **Discern** | EN | discernir, perceber qualidade | 3 | 3 | 3 | 3 | 3 | 3 | **18** |
-| **Calibre** | EN/FR | calibre, nível de qualidade | 3 | 3 | 4 | 4 | 2 | 2 | **18** |
-| **Marrow** | EN | tutano, essência profunda | 3 | 3 | 3 | 3 | 3 | 2 | **17** |
-| **Pith** | EN | essência, núcleo, substância | 3 | 3 | 3 | 3 | 4 | 2 | **18** |
-| **Tasted** | EN | "já provei" — passado | 4 | 4 | 4 | 4 | 3 | 3 | **22** |
-| **Foray** | EN | incursão, aventura | 4 | 4 | 3 | 4 | 4 | 3 | **22** |
-
-**Destaques: Arbiter / Tasted / Foray (22)**
-
----
-
-### Território 8 — Grego: Prazer e Excelência
-
-| Nome | Origem | Significado | Som | Mem | Evo | Int | Disp | Verb | **Total** |
-|------|--------|------------|-----|-----|-----|-----|------|------|-----------|
+| Nome | Origem | Conceito | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|---------|-----|-----|-----|-----|------|------|-----------|
 | **Axios** | *axios* | digno, que merece | 4 | 4 | 3 | 4 | 4 | 3 | **22** |
-| **Arete** | *areté* | excelência, virtude | 4 | 4 | 3 | 4 | 3 | 3 | **21** |
-| **Dais** | *dais* | banquete sagrado | 3 | 3 | 3 | 3 | 4 | 2 | **18** |
-| **Kalos** | *kalos* | belo, excelente | 4 | 4 | 3 | 4 | 3 | 2 | **20** |
-| **Charis** | *charis* | graça, beleza, favor | 4 | 4 | 3 | 4 | 3 | 2 | **20** |
-
-**Destaques: Axios / Arete (22/21)**
+| **Dais** | *dais* | banquete sagrado, a mesa do festim | 3 | 3 | 4 | 3 | 4 | 2 | **19** |
+| **Charis** | *charis* | graça, favor, dom | 4 | 4 | 3 | 4 | 3 | 2 | **20** |
+| **Agatho** | *agathos* | bom, virtuoso, excelente | 4 | 4 | 3 | 4 | 4 | 3 | **22** |
 
 ---
 
-## Top 10 Final — Ranking Consolidado
+### Território E — Inglês: Fora dos Clichés
 
-| Rank | Nome | Score | Território | Conceito |
-|------|------|-------|-----------|---------|
-| 🥇 | **Primor** | 28 | PT + Latim | Excelência artesanal — "está um primor" |
-| 🥇 | **Sapor** | 27 | Latim | Sabor + sabedoria (mesma raiz: *sapere*) |
-| 🥉 | **Conviva** | 27 | Latim | O companheiro de mesa |
-| 4 | **Paladar** | 26 | PT / ES | A sede do gosto |
-| 4 | **Dego** | 26 | Latim | Eu provo (de *degustare*) |
-| 4 | **Vero** | 26 | Latim / IT | Verdadeiro, genuíno |
-| 4 | **Probo** | 26 | Latim | Eu aprovo / testo / verifico |
-| 4 | **Epulo** | 26 | Latim | O banquete, a celebração |
-| 9 | **Dilecto** | 24 | Latim | Amado, escolhido com afeto |
-| 9 | **Iter** | 24 | Latim | A jornada (gastronómica) |
+| Nome | Origem | Conceito | Som | Mem | Evo | Int | Disp | Verb | **Total** |
+|------|--------|---------|-----|-----|-----|-----|------|------|-----------|
+| **Pith** | EN nativo | essência, núcleo, substância | 3 | 3 | 3 | 3 | 4 | 2 | **18** |
+| **Arbiter** | EN/Latim | árbitro do gosto | 3 | 3 | 3 | 4 | 3 | 2 | **18** |
+| **Tasted** | EN nativo | já provei — passado que fica | 4 | 4 | 4 | 4 | 3 | 3 | **22** |
+| **Relish** | EN nativo | prazer intenso, condimento | 4 | 4 | 4 | 3 | 3 | 4 | **22** |
+| **Larder** | EN nativo | despensa — o repositório do bom | 3 | 3 | 3 | 3 | 3 | 2 | **17** |
 
 ---
 
-## Os 3 Finalistas — Análise Detalhada
+## Top 10 Consolidado — Todas as Rondas (v1 + v2 + v3)
 
-### 🥇 Primor
-
-**Origem**: Português nativo, raiz latina *primus* (primeiro, melhor).
-
-**O que significa em cada mercado**:
-- **Portugal**: "Está um primor" = está perfeito, feito com arte. Uso quotidiano, carregado de afeto e qualidade artesanal.
-- **Brasil**: "Primor" usado igualmente — "feito com primor" = feito com cuidado e excelência.
-- **Espanha**: *Primo* (primeiro/melhor) + sufixo — compreendido intuitivamente.
-- **Itália**: *Primordiale*, *primo* — familiar, premium.
-- **Inglaterra**: Cognato de "prime" — "the prime of cuisine."
-
-**Narrativa de produto**: *O Primor* é o registo dos pratos que foram mesmo excecionais. Cada review é marcar o que foi feito com primor.
-
-**Como soa como verbo**: "Já primoreaste este restaurante?" ← funciona em contexto informal.
-
-**Domínio**: primor.app — muito provavelmente disponível. primor.com já existe como site de moda/decoração PT, mas primor.app e @primor nas redes devem estar livres.
-
-**Risco único**: associação com a marca de retalho "Primor" em Portugal (lojas de beleza). Requer verificação de trademark. Em contexto de app de comida, a confusão é baixa.
+| Rank | Nome | Score | Território | O que evoca |
+|------|------|-------|-----------|------------|
+| 🥇 | **Favo** | 28 | PT/Latim | Favo de mel — estrutura celular = grafo de pratos |
+| 🥇 | **Mimo** | 27 | PT nativo | "Está um mimo" — feito com carinho, um regalo |
+| 🥇 | **Brio** | 27 | PT/IT/EN | "Tem brio" — qualidade, orgulho, esmero |
+| 🥇 | **Lume** | 27 | PT poético | "Ao lume" — o fogo da cozinha, a chama |
+| 🥇 | **Conviva** | 27 | Latim/PT | O companheiro de mesa |
+| 6 | **Achado** | 26 | PT nativo | "Que achado!" — a descoberta excepcional |
+| 6 | **Epulo** | 26 | Latim | O banquete, a festa |
+| 6 | **Vero** | 26 | Latim/IT | Verdadeiro, genuíno |
+| 6 | **Merenda** | 26 | Latim/PT/IT | A refeição partilhada, o momento |
+| 6 | **Raro** | 26 | PT/EN | Excepcional, fora do comum |
 
 ---
 
-### 🥇 Sapor
+## Os 4 Finalistas — Análise Aprofundada
 
-**Origem**: Latim *sapor* — sabor, gosto. Da raiz *sapere* = provar + ser sábio. A mesma raiz dá *sabor* em PT, *saveur* em FR, *sapore* em IT, *sabor* em ES.
+### 🥇 Favo
 
-**O que significa em cada mercado**:
-- **Portugal**: *sabor* é imediatamente reconhecido como cognato.
-- **Espanha/América Latina**: *sabor* = flavor — a ligação é instantânea.
-- **Itália**: *sapore* = flavor — mesma família.
-- **França**: *saveur* — familiar.
-- **Inglaterra**: "sapor" existe em EN como palavra arcaica/científica para flavor. Pouco usado = disponível como brand.
+**Origem**: Latim *favus*, português *favo de mel* (honeycomb).
 
-**A profundidade do conceito**: *sapere* em latim significa simultaneamente "ter gosto" e "ser sábio". O Dish Graph é literalmente conhecimento de sabor — sapor. O nome e a missão são a mesma coisa.
+**O conceito**: o favo é uma estrutura de células interligadas — cada célula é um nó. É literalmente a metáfora visual do Global Dish Graph. Cada prato é uma célula. Cada restaurante é um cluster. O mel que resulta é o conhecimento.
 
-**Como soa**: curto, aberto, fácil de dizer em qualquer língua. "Procura no Sapor." "Já tens no Sapor?"
+**Como funciona em cada mercado**:
+- PT: "favo de mel" — palavra quotidiana, imagem familiar
+- BR: igual
+- ES: "panal" é mais comum mas "favo" é imediatamente compreendido
+- IT: "favo" = honeycomb — mesma palavra
+- EN: "favo" não existe mas soa próximo de "favor" (pleasant) e "flavor" — associações positivas
 
-**Domínio**: sapor.app — alta probabilidade de disponibilidade.
+**Em conversa**: "Vai ao Favo", "Já mexi no Favo", "Vê isso no Favo" — flui naturalmente.
+
+**Domínio**: favo.app — alta probabilidade de disponibilidade. favo.com pode existir em contexto não-alimentar mas .app estará livre.
+
+**Risco**: poucos. O único é que "favo" é concreto e específico — mas isso é uma vantagem, não um problema.
 
 ---
 
-### 🥉 Conviva
+### 🥇 Lume
 
-**Origem**: Latim *conviva* — o companheiro de mesa, o comensal. De *con* (com) + *vivere* (viver). Aquele com quem partilhas a refeição.
+**Origem**: Português poético/arcaico, do latim *lumen* (luz) — em PT *lume* significa fogo, chama, o lume da lareira, "ao lume" (ao fogo, no contexto de cozinha tradicional).
 
-**O que significa em cada mercado**:
-- **Portugal**: *conviva* é palavra PT ativa — "os convivas do jantar" = os convidados/companheiros.
-- **Itália**: *conviva* = comensal, mesma palavra.
-- **Espanha**: *comensal* é mais usado, mas *conviva* é compreendido.
-- **Inglaterra**: "convive" não existe, mas soa elegante e Latin-root premium.
+**O conceito**: "ao lume" é uma expressão de culinária tradicional portuguesa — cozinhar ao lume, ao fogo lento. Lume evoca calor, tradição, o momento em que algo está a ser preparado com cuidado. É a chama que transforma ingredientes em memória.
 
-**A narrativa**: o Conviva é o teu companheiro de mesa digital — conhece o que já comeste, sabe o que gostas, guia-te para o próximo prato excepcional.
+**Como funciona em cada mercado**:
+- PT/BR: *lume* = fogo, chama — palavra literária mas compreendida. "Ao lume" é cozinha.
+- ES: *lumbre* = fogo/brasa — cognato imediato
+- IT: *lume* = luz, lamparina — familiar
+- EN: *lume* não existe como palavra mas evoca *luminous*, *luminary* — premium, distinto
 
-**Risco**: 3 sílabas — mais longo. "Vai ao Conviva" funciona, mas menos natural que "Vai ao Primor."
+**Em conversa**: "Vai ao Lume", "Está no Lume", "Procura no Lume" — funciona muito bem.
+
+**Conceito de produto**: *O Lume é o que ilumina o prato certo para ti.*
+
+**Domínio**: lume.app — provavelmente disponível. lume.com pode ter uso em tecnologia (existe uma empresa de câmaras chamada Lume Cube) mas o contexto alimentar é diferente.
+
+---
+
+### 🥇 Mimo
+
+**Origem**: Português nativo — *mimo* = um regalo, algo feito com carinho, um pequeno ato de atenção que deleita.
+
+**O conceito**: "Que mimo!" é uma exclamação portuguesa genuína de prazer e apreciação. Um mimo de comida é um prato feito com carinho, algo que te trata bem. A app que trata cada prato como um mimo.
+
+**Como funciona em cada mercado**:
+- PT/BR: perfeito — palavra quotidiana, cálida, familiar
+- ES: *mimo* = mimo, carinho, mimar — mesma raiz, mesmo uso afetivo
+- IT: *mimo* = mímica (ator de mime) — pequena confusão mas não prejudicial
+- EN: *mimo* não existe mas soa próximo de *me-mo* (memos) ou evoca *mimosa* — distinto
+
+**Em conversa**: "Vai ao Mimo", "É um mimo de app", "Já tens no Mimo?" — muito natural em PT.
+
+**Risco**: pode soar demasiado suave/feminino para alguns contextos. Na fase global pode perder alguma autoridade. Mas apps de consumo (Airbnb, Etsy, Spotify) não precisam de soar "sérias" — precisam de soar humanas.
+
+---
+
+### 🥇 Brio
+
+**Origem**: Português *brio* = orgulho, qualidade, o esmero de fazer algo bem. Do italiano e espanhol, raiz latina *brig-* (força, vigor).
+
+**O conceito**: "tem brio" diz-se de alguém que faz as coisas com orgulho e qualidade. "Feito com brio" = feito com atenção e esmero. A app dos pratos feitos — e encontrados — com brio.
+
+**Como funciona em cada mercado**:
+- PT: muito natural — "ter brio" é expressão corrente
+- IT: *brio* = vivacidade, espírito, vigor (também musical — *con brio*)
+- EN: *brio* = vigor, vivacity, talent — word exists and is known
+- ES: *brío* = vigor, energy, spirit — mesmo
+
+**Em conversa**: "Vai ao Brio", "Tens no Brio?", "O Brio recomenda" — funciona bem.
+
+**Domínio**: brio.app — possível mas requer verificação (existe Brio como produto de limpeza nos EUA e como empresa de tech). Em contexto alimentar PT, deve estar disponível.
 
 ---
 
 ## Recomendação Final
 
-### Nome: **Sapor**
+### Nome: **Favo**
 
-É o nome com maior profundidade conceptual e melhor posicionamento global.
+De todos os candidatos explorados em três rondas, é o que tem a combinação mais forte de:
 
-**A razão decisiva**: a raiz *sapere* significa simultaneamente "ter sabor" e "ser sábio/saber". O Scoreat não é apenas uma app de reviews — é o **conhecimento estruturado de sabor**. O nome e a missão são a mesma palavra em latim. Nenhum outro candidato tem esta coerência.
+1. **Metáfora embutida no produto**: o favo de mel *é* o grafo — células interligadas, estrutura que produz algo valioso. Nenhum outro nome tem esta coerência entre o nome e a arquitetura do produto.
 
-**Se Sapor falhar no trademark/domínio**: **Primor** é a segunda escolha — mais cultural, mais PT, igualmente forte.
+2. **Internacional sem esforço**: funciona em PT, IT, e é fonéticamente agradável em EN e ES sem precisar de tradução.
 
-**Se ambos falharem**: **Conviva** ou **Dego**.
+3. **Fonética quente**: começa com *f*, tem vogais abertas (*a*, *o*), termina aberto. Nenhuma associação negativa em nenhum mercado.
 
----
+4. **Único no espaço de food apps**: não existe nenhuma app de comida relevante com este nome.
 
-## Próximos Passos Obrigatórios
+5. **Domínio disponível**: alta probabilidade para favo.app e @favo nas redes.
 
-Antes de qualquer decisão, por esta ordem:
-
-- [ ] **Verificar domínios**: sapor.app · sapor.com · primor.app · conviva.app
-- [ ] **Trademark search**: EUIPO (Europa) · INPI (Portugal) · USPTO (EUA) · INPI-BR (Brasil)
-- [ ] **App Store / Play Store**: procurar nome exato + variações próximas
-- [ ] **Handles sociais**: @sapor · @primor no Instagram, TikTok, X
-- [ ] **Teste de pronúncia**: pedir a 10 pessoas para dizerem o nome em voz alta sem contexto
-- [ ] **Teste de evocação**: "O que imaginas quando ouves 'Sapor'?" — 10 respostas de PT e EN nativos
-- [ ] **Decisão antes do mês 3** — mudar de nome depois de crescimento público é custoso
+**Frase de produto embutida no nome**: *"Constrói o teu favo."* — cada review é uma célula do teu favo pessoal de pratos.
 
 ---
 
-## Nota sobre Timing
+**Se Favo falhar no trademark/domínio**:
+- Plano B: **Lume** — mais poético, mais cozinha tradicional, igualmente único
+- Plano C: **Brio** — mais internacional, mais "qualidade", igualmente disponível
+- Plano D: **Mimo** — mais afetivo, mais PT, mais humano
 
-O rename deve acontecer **antes** do sprint de 30 dias terminar com resultado "Go". Se há PMF, a fase de crescimento começa — e crescer com o nome errado multiplica o custo de mudar depois.
+---
 
-**Não é urgente para o sprint, mas é urgente para preparar o sprint.**
+## Próximos Passos
+
+- [ ] Verificar: favo.app · favo.com · lume.app · brio.app
+- [ ] Trademark: EUIPO + INPI + USPTO para os 4 finalistas
+- [ ] Teste de evocação com 10 pessoas: "O que imaginas quando ouves 'Favo'?" — em PT e EN
+- [ ] Teste de pronúncia: pedir a alguém para dizer em voz alta sem contexto
+- [ ] Handles: @favo @lume @brio no Instagram, TikTok, X
